@@ -2,6 +2,12 @@
 
 Lightweight web-based terminal multiplexer. Single binary, runs on Linux/macOS/Windows.
 
+## Install
+
+```bash
+curl -Lo /usr/local/bin/tweb https://github.com/roraja/tweb/releases/latest/download/tweb-linux-amd64 && chmod +x /usr/local/bin/tweb
+```
+
 ## Quick Start
 
 ```bash
